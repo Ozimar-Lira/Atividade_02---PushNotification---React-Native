@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046286911382",
+    "project_id": "pushnotification-ozimar",
+    "storage_bucket": "pushnotification-ozimar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046286911382:android:5323019c61dc163fdabfb7",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046286911382-4io6hpk78kogsjje96rsfekvmrf2m3t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjlIbZ3AvC__z-eAKj0C0xwBfLPHsxrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046286911382-4io6hpk78kogsjje96rsfekvmrf2m3t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
